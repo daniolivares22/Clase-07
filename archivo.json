@@ -1,37 +1,37 @@
 [
   {
     "pez": "Paedocypris progenetica",
-    "tamaño": "7.9",
+    "tamaño": "7.9"
     "comparado": "0.79"
   },
   {
     "pez": "Stout Floater",
-    "tamaño": 7
+    "tamaño": "7"
     "comparado": "0.7"
   },
   {
     "pez": "Photocorynus spiniceps",
-    "tamaño": "6.2",
+    "tamaño": "6.2"
     "comparado": "0.62"
   },
   {
     "pez": "Dwarf Pygmy Goby",
-    "tamaño": 10
-    "comparado": 1
+    "tamaño": "10"
+    "comparado": "1"
   },
   {
     "pez": "Midget Dwarf Goby",
-    "tamaño": 10
-    "comparado": 1
+    "tamaño": "10"
+    "comparado": "1"
   },
   {
     "pez": "Leaf Fish",
-    "tamaño": 10
-    "comparado": 1
+    "tamaño": "10"
+    "comparado": "1"
   },
   {
     "pez": "Eviota sigillata",
-    "tamaño": 11
+    "tamaño": "11"
     "comparado": "1.1"
   }
 ]
